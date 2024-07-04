@@ -1,0 +1,5 @@
+= Proyecto .NET
+
+Proyecto de ejemplo básico de consola usando .NET 8.0 y C#.
+
+

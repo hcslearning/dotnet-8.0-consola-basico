@@ -2,4 +2,11 @@
 
 Proyecto de ejemplo básico de consola usando .NET 8.0 y C#.
 
+[source,bash]
+----
+dotnet new console --framework net8.0 --use-program-main
+dotnet new gitignore
+dotnet run
+dotnet publish --configuration Release
+----
 
